@@ -29,7 +29,7 @@ const siteProps = {
   email: "p.gayathri.ch@gmail.com",
   gitHub: "GayathriPCh",
   instagram: "",
-  linkedIn: "gayathri-p",
+  linkedIn: "gayathri-p-1bb3b9276/",
   medium: "",
   twitter: "",
   youTube: "",
