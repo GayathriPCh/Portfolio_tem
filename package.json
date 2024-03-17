@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://GayathriPCh.github.io/Portfolio_tem'",
+    "build-gh": "parcel build --public-url 'https://GayathriPCh.github.io/Portfolio_tem/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
