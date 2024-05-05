@@ -20,8 +20,19 @@ const projectList = [
   {
     title: "Steller society - a space-themed chat integrated music player",
     description: "A collaborative project and under development.",
-    url: "https://github.com/tmanas06/Stellar_society_project",
+    url: "https://github.com/GayathriPCh/Steller-Society",
   },
+   {
+    title: "EV Breeze - My first 24hr Hackathon project",
+    description: "A collaborative project developed during a 24hr hackathon.",
+    url: "https://github.com/GayathriPCh/EV_Breeze",
+  },
+   {
+    title: "Kaleido - A react-based Gemini powered color exploration application",
+    description: "A collaborative project developed for the Google AI hackathon",
+    url: "https://github.com/GayathriPCh/Kaleido",
+  },
+   
 ];
 
 const Portfolio = () => {
